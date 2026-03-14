@@ -1,0 +1,9 @@
+[user]
+	name = howardmann
+	email = howardmann27@gmail.com
+[core]
+	editor = vim
+[color]
+	ui = auto
+[credential]
+	helper = osxkeychain
