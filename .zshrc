@@ -98,3 +98,5 @@ export NVM_DIR="$HOME/.nvm"
 
 export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.ustc.edu.cn/homebrew-bottles
 export PATH="$HOME/.local/bin:$PATH"
+
+eval "$(zoxide init zsh)"
